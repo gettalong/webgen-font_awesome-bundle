@@ -1,0 +1,9 @@
+author: Thomas Leitner <t_leitner@gmx.at>
+summary: webgen extension bundle for Font Awesome icon font
+description: |
+  This webgen extension bundle provides the Font Awesome icon font and the
+  needed Sass files for using them, either stand-alone or with the Twitter
+  Bootstrap framework.
+version: 1.0.0
+license: Apache License, Version 2.0
+homepage: http://github.com/gettalong/webgen-font_awesome-bundle
