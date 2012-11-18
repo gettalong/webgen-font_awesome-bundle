@@ -15,22 +15,22 @@ The bundle uses [Sass] for providing the necessary CSS files and for
 compatibility to [webgen Twitter Bootstrap bundle][2], so be sure you
 have Sass installed.
 
-* If you want to use the font without the Twitter Bootstrap framework,
-  just import the stylesheet in one of your Sass files:
+*   If you want to use the font without the Twitter Bootstrap framework,
+    just import the stylesheet in one of your Sass files:
 
-      @import "/font-awesome";
+        @import "/font-awesome";
 
-* If you want to use the font with the Twitter Bootstrap framework, ie.
-  instead of the Glyphicons, you need to load this bundle after the
-  Twitter Bootstrap bundle!
+*   If you want to use the font with the Twitter Bootstrap framework, ie.
+    instead of the Glyphicons, you need to load this bundle after the
+    Twitter Bootstrap bundle!
 
-  Then just load the Bootstrap framework as usual with
+    Then just load the Bootstrap framework as usual with
 
-      @import "/bootstrap/bootstrap";
+        @import "/bootstrap/bootstrap";
 
-  If you don't use this approach because you selectively load parts of
-  the Bootstrap framework, make sure that you import `/font-awesome`
-  instead of `/bootstrap/sprites`!
+    If you don't use this approach because you selectively load parts of
+    the Bootstrap framework, make sure that you import `/font-awesome`
+    instead of `/bootstrap/sprites`!
 
 [Sass]: http://sass-lang.com/
 
