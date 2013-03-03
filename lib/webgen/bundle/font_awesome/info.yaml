@@ -5,5 +5,5 @@ description: |
   needed Sass files for using them, either stand-alone or with the Twitter
   Bootstrap framework.
 version: 1.0.0
-license: Apache License, Version 2.0
+license: MIT
 homepage: http://github.com/gettalong/webgen-font_awesome-bundle
