@@ -4,7 +4,7 @@ This is a [webgen] extension bundle that provides the [Font Awesome][1]
 icon font. This icon font can be used stand-alone or combined with the
 [webgen Twitter Bootstrap bundle][2].
 
-[webgen]: http://webgen.rubyforge.org
+[webgen]: http://webgen.gettalong.org
 [1]: http://fortawesome.github.com/Font-Awesome/
 [2]: https://github.com/gettalong/webgen-sass_twitter_bootstrap-bundle#readme
 
